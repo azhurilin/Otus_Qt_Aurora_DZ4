@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>warning.png</file>
+        <file>air-con.png</file>
+        <file>music.png</file>
+        <file>command.png</file>
+        <file>message.png</file>
+        <file>seats.png</file>
+        <file>settings.png</file>
+        <file>windows.png</file>
+        <file>statistics.png</file>
+        <file>add_button.png</file>
+        <file>sub_button.png</file>
+        <file>div_button.png</file>
+        <file>mul_button.png</file>
+        <file>1_button.png</file>
+        <file>2_button.png</file>
+        <file>3_button.png</file>
+        <file>4_button.png</file>
+        <file>5_button.png</file>
+        <file>6_button.png</file>
+        <file>7_button.png</file>
+        <file>8_button.png</file>
+        <file>9_button.png</file>
+        <file>0_button.png</file>
+        <file>f_button.png</file>
+        <file>enter_button.png</file>
+        <file>point_button.png</file>
+        <file>sign_button.png</file>
+        <file>swap_button.png</file>
+        <file>em_button.png</file>
+        <file>cx_button.png</file>
+        <file>b13_label.png</file>
+        <file>b17_label.png</file>
+        <file>b18_label.png</file>
+        <file>switch_a.png</file>
+        <file>switch_b.png</file>
+        <file>on_button.png</file>
+        <file>back_switch.png</file>
+        <file>grd_switch.png</file>
+        <file>dp_switch.png</file>
+        <file>cz_switch.png</file>
+
+    </qresource>
+</RCC>
